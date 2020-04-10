@@ -17,7 +17,7 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
-        android:text="Notify Me"
+        android:text="@string/notify_me"
         android:onClick="myButtonClick"/>
 
 </RelativeLayout>
